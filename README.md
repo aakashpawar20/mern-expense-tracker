@@ -13,7 +13,7 @@ An expense tracking application with data visualization - developed using React,
 3. MongoDB (4.2.0)
 
 ####  How to run this code
-1. Make sure MongoDB is running on your system
+1. Make sure MongoDB is running on your system ok
 2. Clone this repository
 3. Open command line in the cloned folder,
    - To install dependencies, run ```  npm install  ``` or ``` yarn ```
